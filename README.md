@@ -1,2 +1,0 @@
-# lametric-onair
-Begin app
